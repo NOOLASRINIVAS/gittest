@@ -1,8 +1,9 @@
-Rainbow has seven colours
+Rainbow has seven colours and unicorn extra we have added
 red,
 orange,
 yellow,
 green,
+unicorn,
 blue,
 indigo
 violet
