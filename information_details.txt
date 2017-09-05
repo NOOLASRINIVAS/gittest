@@ -1,0 +1,8 @@
+Task Details: 
+1)	Configure Git in Linux
+2)	Create sample repository 
+3)	Perform all operations available for git
+
+Feedback: For Tasks (T1, T2 & T3): Went well and team performance looks good but my humble request for all team member to understand topics and dig deeper into it.
+Don’t be in a harry saying that I have completed my T1 or T2  as it has been assigned.
+Learning topics covered in the task is import but thinking around the topics and getting more knowledge is best approach which make you more perfect and strong.
