@@ -1,0 +1,4 @@
+Task Details: 
+1)	Configure Git in Linux
+2)	Create sample repository 
+3)	Perform all operations available for git.
